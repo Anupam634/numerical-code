@@ -16,7 +16,7 @@ float next(float a, float b){
 
 
 int main(){
-	printf("\n####################  Regula-Falsi Method -by Anindya  ########################\n\n\n");
+	printf("\n####################  Regula-Falsi Method  ########################\n\n\n");
 	int i, j;
 	float a, b, x1, x2, r1, r2;
 	i=0;
